@@ -1,0 +1,11 @@
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\bin\Debug\netcoreapp2.1\lista3.deps.json
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\bin\Debug\netcoreapp2.1\lista3.runtimeconfig.json
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\bin\Debug\netcoreapp2.1\lista3.runtimeconfig.dev.json
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\bin\Debug\netcoreapp2.1\lista3.dll
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\bin\Debug\netcoreapp2.1\lista3.pdb
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\obj\Debug\netcoreapp2.1\lista3.csprojAssemblyReference.cache
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\obj\Debug\netcoreapp2.1\lista3.csproj.CoreCompileInputs.cache
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\obj\Debug\netcoreapp2.1\lista3.AssemblyInfoInputs.cache
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\obj\Debug\netcoreapp2.1\lista3.AssemblyInfo.cs
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\obj\Debug\netcoreapp2.1\lista3.dll
+C:\Users\jaqueline.opaula\projetos\lp_lista3\lista3\obj\Debug\netcoreapp2.1\lista3.pdb
